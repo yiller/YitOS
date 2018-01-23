@@ -25,5 +25,5 @@
             "YitOS\\": "src/YitOS/"
         }
     },
-    "minimum-stability": "alpha"
+    "minimum-stability": "dev"
 }
